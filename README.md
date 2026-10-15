@@ -1,5 +1,5 @@
 # Check_DOIs
-A python script to extract DOIs from a reference section and check whether DOIs are accessible in general.
+A python script to extract DOIs from a reference section and check whether DOIs are accessible.
 
 1. Open the script in VS Code or Positron.
 2. Put your (institutional) E Mail at the top of the script
